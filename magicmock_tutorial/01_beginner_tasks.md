@@ -124,10 +124,10 @@ print(f"{user_mock.name} is {user_mock.age} years old")
 ---
 
 ## ✅ Completion Checklist
-- [ ] Completed Task 1
-- [ ] Completed Task 2
-- [ ] Completed Task 3
-- [ ] Completed Task 4
-- [ ] Completed Task 5
+- [x] Completed Task 1
+- [x] Completed Task 2
+- [x] Completed Task 3
+- [x] Completed Task 4
+- [x] Completed Task 5
 
 **Next**: Move to `02_intermediate_tasks.md` when ready!
