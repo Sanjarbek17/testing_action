@@ -199,12 +199,12 @@ for call in mock.log.call_args_list:
 ---
 
 ## ✅ Completion Checklist
-- [ ] Completed Task 6
-- [ ] Completed Task 7
-- [ ] Completed Task 8
-- [ ] Completed Task 9
-- [ ] Completed Task 10
-- [ ] Completed Task 11
-- [ ] Completed Task 12
+- [ x ] Completed Task 6
+- [ x ] Completed Task 7
+- [ x ] Completed Task 8
+- [ x ] Completed Task 9
+- [ x ] Completed Task 10
+- [ x ] Completed Task 11
+- [ x ] Completed Task 12
 
 **Next**: Move to `03_advanced_tasks.md` when ready!
