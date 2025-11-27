@@ -346,15 +346,15 @@ print("✓ Test completed!")
 ---
 
 ## ✅ Completion Checklist
-- [ ] Completed Task 13: Chained method calls
-- [ ] Completed Task 14: Context managers
-- [ ] Completed Task 15: PropertyMock
-- [ ] Completed Task 16: AsyncMock
-- [ ] Completed Task 17: Multiple patches
-- [ ] Completed Task 18: Custom mock subclass
-- [ ] Completed Task 19: pytest integration
-- [ ] Completed Task 20: ANY and call matchers
-- [ ] Completed Task 21: Real-world API testing
+- [x] Completed Task 13: Chained method calls
+- [x] Completed Task 14: Context managers
+- [x] Completed Task 15: PropertyMock
+- [x] Completed Task 16: AsyncMock
+- [x] Completed Task 17: Multiple patches
+- [x] Completed Task 18: Custom mock subclass
+- [x] Completed Task 19: pytest integration
+- [x] Completed Task 20: ANY and call matchers
+- [x] Completed Task 21: Real-world API testing
 
 **Congratulations!** 🎉 You've completed all MagicMock tasks!
 
